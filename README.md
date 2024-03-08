@@ -1,2 +1,2 @@
 # blockchain-smart-contract
-在hyperledger架构上验证智能合约
+基于Hyperledger Fabric 2.x架构实验智能合约
